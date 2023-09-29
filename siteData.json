@@ -7,7 +7,7 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
+        "chua-bing-jian": "Chua Bing Jian",
         "jane-doe": "Jane Doe",
         "johnny-doe": "Johnny Doe",
         "jean-doe": "Jean Doe",
@@ -132,6 +132,14 @@
       "title": "",
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/cbj252.md",
+      "title": "Bing Jian's Project Portfolio Page",
+      "headings": {
+        "project-tassistant": "Project: TASsistant"
       },
       "headingKeywords": {}
     },
