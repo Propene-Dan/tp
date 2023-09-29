@@ -9,7 +9,7 @@
         "project-team": "Project team",
         "chua-bing-jian": "Chua Bing Jian",
         "teo-zern": "Teo Zern",
-        "johnny-doe": "Johnny Doe",
+        "yuan-tianci-jackson": "Yuan Tianci Jackson",
         "alvis-ng": "Alvis Ng",
         "james-doe": "James Doe"
       },
@@ -149,6 +149,14 @@
     {
       "src": "team/cbj252.md",
       "title": "Bing Jian's Project Portfolio Page",
+      "headings": {
+        "project-tassistant": "Project: TASsistant"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/jackson.md",
+      "title": "Jackson's Project Portfolio Page",
       "headings": {
         "project-tassistant": "Project: TASsistant"
       },
