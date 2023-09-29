@@ -10,7 +10,7 @@
         "chua-bing-jian": "Chua Bing Jian",
         "teo-zern": "Teo Zern",
         "yuan-tianci-jackson": "Yuan Tianci Jackson",
-        "jean-doe": "Jean Doe",
+        "alvis-ng": "Alvis Ng",
         "james-doe": "James Doe"
       },
       "headingKeywords": {}
@@ -132,6 +132,14 @@
       "title": "",
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/alvisng.md",
+      "title": "John Doe's Project Portfolio Page",
+      "headings": {
+        "project-island-showdown": "Project: Island Showdown"
       },
       "headingKeywords": {}
     },
