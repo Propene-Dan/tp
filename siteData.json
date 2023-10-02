@@ -171,6 +171,15 @@
       "headingKeywords": {}
     },
     {
+      "src": "team/teozern1.md",
+      "headings": {
+        "teozern1-s-project-portfolio-page": "teozern1's Project Portfolio Page",
+        "project-tassistant": "Project: TASsistant",
+        "documentation": "Documentation:"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "tutorials/AddRemark.md",
       "title": "Tutorial: Adding a command",
       "headings": {
