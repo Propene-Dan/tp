@@ -145,9 +145,9 @@
     },
     {
       "src": "team/alvisng.md",
-      "title": "John Doe's Project Portfolio Page",
+      "title": "Alvis' Project Portfolio Page",
       "headings": {
-        "project-island-showdown": "Project: Island Showdown"
+        "project-tassistant": "Project: TASsistant"
       },
       "headingKeywords": {}
     },
