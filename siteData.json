@@ -114,6 +114,7 @@
         "adding-a-person-add": "Adding a person: add",
         "listing-all-persons-list": "Listing all persons : list",
         "deleting-a-person-delete": "Deleting a person : delete",
+        "search-search": "Search : search",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
