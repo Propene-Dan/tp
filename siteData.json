@@ -11,7 +11,7 @@
         "teo-zern": "Teo Zern",
         "yuan-tianci-jackson": "Yuan Tianci Jackson",
         "alvis-ng": "Alvis Ng",
-        "james-doe": "James Doe"
+        "song-bingxi": "Song Bingxi"
       },
       "headingKeywords": {}
     },
@@ -105,9 +105,8 @@
     },
     {
       "src": "UserGuide.md",
-      "title": "User Guide",
       "headings": {
-        "ab-3-user-guide": "AB-3 User Guide",
+        "tassistant-user-guide": "TASsistant User Guide",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
@@ -128,8 +127,12 @@
         "adding-a-user-to-a-given-module-addtomodule": "Adding a user to a given module: addToModule",
         "removes-a-user-from-a-given-module-removefrommodule": "Removes a user from a given module: removeFromModule",
         "adds-a-tutorial-to-a-given-module-addtutorial": "Adds a tutorial to a given module: addTutorial",
-        "removes-a-tutorial-to-a-given-module-removetutorial": "Removes a tutorial to a given module: removeTutorial",
+        "removes-a-tutorial-from-a-given-module-removetutorial": "Removes a tutorial from a given module: removeTutorial",
         "gives-a-specific-user-a-given-status-changestatus": "Gives a specific user a given status: changeStatus",
+        "adds-a-student-to-current-tutorial-addstudent": "Adds a student to current Tutorial: addStudent",
+        "removes-a-student-from-current-tutorial-removestudent": "Removes a student from current Tutorial: removeStudent",
+        "edit-the-name-of-the-current-tutorial-editname": "Edit the name of the current Tutorial: editName",
+        "edit-the-time-of-the-current-tutorial-edittime": "Edit the time of the current Tutorial: editTime",
         "known-issues": "Known issues",
         "command-summary": "Command summary"
       },
@@ -177,6 +180,14 @@
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/propene-dan.md",
+      "title": "Bingxi's Project Portfolio Page",
+      "headings": {
+        "project-tassistant": "Project: TASsistant"
       },
       "headingKeywords": {}
     },
