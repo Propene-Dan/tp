@@ -147,14 +147,6 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/alvisng.md",
-      "title": "Alvis' Project Portfolio Page",
-      "headings": {
-        "project-tassistant": "Project: TASsistant"
-      },
-      "headingKeywords": {}
-    },
-    {
       "src": "team/cbj252.md",
       "title": "Bing Jian's Project Portfolio Page",
       "headings": {
@@ -186,6 +178,14 @@
     {
       "src": "team/propene-dan.md",
       "title": "Bingxi's Project Portfolio Page",
+      "headings": {
+        "project-tassistant": "Project: TASsistant"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/supermii2.md",
+      "title": "Alvis' Project Portfolio Page",
       "headings": {
         "project-tassistant": "Project: TASsistant"
       },
