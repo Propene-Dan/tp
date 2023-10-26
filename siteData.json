@@ -107,6 +107,7 @@
     },
     {
       "src": "UserGuide.md",
+      "title": "User Guide",
       "headings": {
         "tassistant-user-guide": "TASsistant User Guide",
         "table-of-contents": "Table of Contents",
