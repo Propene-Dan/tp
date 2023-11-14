@@ -1,3 +1,4 @@
+<div style="page-break-after: always;"></div>
 ---
 layout: page
 title: Bingxi's Project Portfolio Page
